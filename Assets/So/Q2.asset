@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f591bbf782d27fb4c90ece4a0f01dd37, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  Question: Ngay mai an gi
+  answers:
+  - nhu ngay hom nay
+  - khong an
+  - 'nhin doi '
+  - chiu
+  correctAnswerindex: 0
